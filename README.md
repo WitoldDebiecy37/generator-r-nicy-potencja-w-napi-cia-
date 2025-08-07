@@ -1,0 +1,1 @@
+# generator-r-nicy-potencja-w-napi-cia-
